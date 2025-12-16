@@ -7,7 +7,7 @@ public class Gitproj {
 		// TODO Auto-generated method stub
 		System.out.println("welcome to selectables session…");
 		System.out.println("welcome to STC");
-		
+		System.out.println("hi");
 		
 	}
 
